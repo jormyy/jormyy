@@ -18,20 +18,11 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jormyy&show_icons=true&theme=radical)
 
 ## 💼 What I'm Working On
-- 🔭 Building innovative web applications
-- 🌟 Contributing to open source projects
-- 📚 Learning advanced algorithms and system design
-- 🤝 Collaborating with developers worldwide
+- 🔭 Building applications and applying to jobs
+- 📚 Graduating soon
 
 ## 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jormyy&layout=compact&theme=radical)
-
-## 🎯 2025 Goals
-- [ ] Contribute to 10 open source projects
-- [ ] Build and deploy 5 full-stack applications
-- [ ] Learn a new programming language
-- [ ] Mentor junior developers
-- [ ] Write technical blog posts
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy1112ha)
@@ -39,10 +30,9 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeremy1112ha@gmail.com)
 
 ## ⚡ Fun Facts
-- 🎵 I code better with music on
-- ☕ Coffee is my debugging fuel
-- 🎮 Love playing strategy games in my free time
-- 🌍 Dream of traveling while working remotely
+- 🎵 I will listen to a song I like on repeat until I get sick of it
+- 🎮 Really good at spot the difference
+- 🧃 Obsessed with Yakult
 
 ---
 💡 *"The best revenge is massive success."* – Frank Sinatra
