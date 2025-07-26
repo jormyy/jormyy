@@ -24,7 +24,7 @@
 - 🤝 Collaborating with developers worldwide
 
 ## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jormyy&layout=compact&theme=radical)
 
 ## 🎯 2025 Goals
 - [ ] Contribute to 10 open source projects
