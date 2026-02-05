@@ -26,13 +26,12 @@
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy1112ha)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://jormyy.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://jormyy.github.io)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeremy1112ha@gmail.com)
 
 ## ⚡ Fun Facts
 - 🎵 I will listen to a song I like on repeat until I get sick of it
-- 🎮 Really good at spot the difference
-- 🧃 Obsessed with Yakult
+- 🎮 I'm really good at spot the difference
 
 ---
 💡 *"The best revenge is massive success."* – Frank Sinatra
