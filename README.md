@@ -28,7 +28,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://jormyy.github.io)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeremy1112ha@gmail.com)
 
-## ⚡ Fun Facts
+## Fun Facts
 - I will listen to a song I like on repeat until I get sick of it
 - I'm really good at spot the difference
 
